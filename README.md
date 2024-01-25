@@ -4,11 +4,11 @@
 
 ## Registration Page
 
-![image](https://github.com/Hemanga-Rana/Sustainable-and-No-Contact-Attendance-System/assets/95037269/c995d4ef-11a6-40e9-ae4d-5964e514939e)
+![image](https://github.com/Hemanga-Rana/Sustainable-and-No-Contact-Attendance-System/assets/95037269/71cc9e74-f9e4-4aa9-946a-c3b8c6f85cc1)
 
 ## Main Page
 
-![image](https://github.com/Hemanga-Rana/Sustainable-and-No-Contact-Attendance-System/assets/95037269/71cc9e74-f9e4-4aa9-946a-c3b8c6f85cc1)
+![image](https://github.com/Hemanga-Rana/Sustainable-and-No-Contact-Attendance-System/assets/95037269/c995d4ef-11a6-40e9-ae4d-5964e514939e)
 
 ## Attendance Management Page
 
